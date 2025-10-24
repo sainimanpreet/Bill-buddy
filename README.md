@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack AI Splitwise Clone with Next JS, Convex, Tailwind, Inngest, Shadcn UI Tutorial 🔥🔥
 ## https://youtu.be/Ce7O3p7-YDI
 
@@ -23,3 +24,6 @@ RESEND_API_KEY=
 
 GEMINI_API_KEY=
 ```
+=======
+# Bill-buddy
+>>>>>>> cc8103bbed696237f28d8ce7e8db7eaa3efd060f
