@@ -1,1 +1,1 @@
-this is my bill buddy web app
+this is a bill buddy web app
